@@ -1,12 +1,12 @@
 ---
-title: "Hello, dashboards!"
-subtitle: "Build-a-Dashboard Workshop"
+title: "Trading zone"
+subtitle: "R's kickstart"
 author:   
-  - name: Dr. Mine Çetinkaya-Rundel
+  - name: Elisabeth Guerard
     affiliations:
-      - name: Duke University
-      - name: Posit, PBC
-date: "2024-08-12"
+      - name: Luxembourg University
+      - name: C2DH
+date: "2024-29-11"
 footer: "[pos.it/quarto-dashboards-24](https://pos.it/quarto-dashboards-24)"
 logo: "../images/slides-logo.png"
 format:
